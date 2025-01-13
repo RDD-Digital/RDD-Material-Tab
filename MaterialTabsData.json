@@ -2,34 +2,42 @@
   "FlattenedTrimItems": [
     {
       "TrimId": 1,
-      "Text": "",
-      "Components": [],
-      "TextureItemIds": []
+      "Text": "ERERER",
+      "Components": [
+        "Cuscino"
+      ],
+      "TextureItemIds": [
+        1
+      ]
     }
   ],
   "FlattenedTextureItems": [
     {
       "TextureId": 1,
-      "TrimId": null,
-      "TextureName": "",
-      "TextureVersionTabIds": []
+      "TrimId": 1,
+      "TextureName": "Glass",
+      "TextureVersionTabIds": [
+        1
+      ]
     }
   ],
   "FlattenedTextureVersionItems": [
     {
       "VersionId": 1,
-      "TextureId": null,
-      "VersionName": "",
+      "TextureId": 1,
+      "VersionName": "DFDF",
       "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/version1.png",
-      "ColorTabIds": []
+      "ColorTabIds": [
+        1
+      ]
     }
   ],
   "FlattenedColorItems": [
     {
       "ColorId": 1,
-      "VersionId": null,
-      "ColorTabColorHex": "#FFFFFF",
-      "ColorTabName": ""
+      "VersionId": 1,
+      "ColorTabColorHex": "#ba1212",
+      "ColorTabName": "FDFD"
     }
   ]
 }
