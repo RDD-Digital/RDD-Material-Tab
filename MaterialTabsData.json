@@ -1,0 +1,44 @@
+{
+  "FlattenedTrimItems": [
+    {
+      "TrimId": 1,
+      "Text": "ssdsdsd",
+      "Components": [
+        "Cuscino",
+        "Spalliera"
+      ],
+      "TextureItemIds": [
+        1
+      ]
+    }
+  ],
+  "FlattenedTextureItems": [
+    {
+      "TextureId": 1,
+      "TrimId": 1,
+      "TextureName": "Stone",
+      "TextureVersionTabIds": [
+        1
+      ]
+    }
+  ],
+  "FlattenedTextureVersionItems": [
+    {
+      "VersionId": 1,
+      "TextureId": 1,
+      "VersionName": "dsds",
+      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/version1.png",
+      "ColorTabIds": [
+        1
+      ]
+    }
+  ],
+  "FlattenedColorItems": [
+    {
+      "ColorId": 1,
+      "VersionId": 1,
+      "ColorTabColorHex": "#c51616",
+      "ColorTabName": "sdsdsd"
+    }
+  ]
+}
