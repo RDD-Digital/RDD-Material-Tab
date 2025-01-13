@@ -17,7 +17,8 @@
       "TrimId": 1,
       "TextureName": "Glass",
       "TextureVersionTabIds": [
-        1
+        1,
+        2
       ]
     }
   ],
@@ -30,6 +31,13 @@
       "ColorTabIds": [
         1
       ]
+    },
+    {
+      "VersionId": 2,
+      "TextureId": 1,
+      "VersionName": "cvcvcv",
+      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/version2.png",
+      "ColorTabIds": []
     }
   ],
   "FlattenedColorItems": [
