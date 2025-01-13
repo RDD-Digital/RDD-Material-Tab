@@ -2,13 +2,19 @@
   "FlattenedTrimItems": [
     {
       "TrimId": 1,
-      "Text": "ERERER",
+      "Text": "FINITURA 1",
       "Components": [
         "Cuscino"
       ],
       "TextureItemIds": [
         1
       ]
+    },
+    {
+      "TrimId": 2,
+      "Text": "",
+      "Components": [],
+      "TextureItemIds": []
     }
   ],
   "FlattenedTextureItems": [
@@ -17,8 +23,7 @@
       "TrimId": 1,
       "TextureName": "Glass",
       "TextureVersionTabIds": [
-        1,
-        2
+        1
       ]
     }
   ],
@@ -26,26 +31,25 @@
     {
       "VersionId": 1,
       "TextureId": 1,
-      "VersionName": "DFDF",
+      "VersionName": "gLASS 001",
       "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/version1.png",
       "ColorTabIds": [
         1
       ]
-    },
-    {
-      "VersionId": 2,
-      "TextureId": 1,
-      "VersionName": "cvcvcv",
-      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/version2.png",
-      "ColorTabIds": []
     }
   ],
   "FlattenedColorItems": [
     {
       "ColorId": 1,
       "VersionId": 1,
-      "ColorTabColorHex": "#ba1212",
-      "ColorTabName": "FDFD"
+      "ColorTabColorHex": "#10c647",
+      "ColorTabName": "verde"
+    },
+    {
+      "ColorId": 2,
+      "VersionId": null,
+      "ColorTabColorHex": "#FFFFFF",
+      "ColorTabName": ""
     }
   ]
 }
