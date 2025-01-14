@@ -2,7 +2,7 @@
   "FlattenedTrimItems": [
     {
       "TrimId": 1,
-      "Text": "FDFDF",
+      "Text": "xccxxcxcx",
       "Components": [
         "Cuscino"
       ],
@@ -12,9 +12,9 @@
     },
     {
       "TrimId": 2,
-      "Text": "dffdfd",
+      "Text": "cecece",
       "Components": [
-        "Seduta"
+        "Schienale"
       ],
       "TextureItemIds": [
         2
@@ -25,7 +25,7 @@
     {
       "TextureId": 1,
       "TrimId": 1,
-      "TextureName": "Fabric",
+      "TextureName": "Glass",
       "TextureVersionTabIds": [
         1
       ]
@@ -43,28 +43,28 @@
     {
       "VersionId": 1,
       "TextureId": 1,
-      "VersionName": "cvcvcv",
-      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/version1_1736872778468.png"
+      "VersionName": "cvxcxc",
+      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/version1_1736872970226.png"
     },
     {
       "VersionId": 2,
       "TextureId": 2,
-      "VersionName": "cvfvcv",
-      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/version2_1736872781350.png"
+      "VersionName": "cwececw",
+      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/version2_1736872972952.png"
     }
   ],
   "FlattenedColorItems": [
     {
       "ColorId": 1,
       "VersionId": 1,
-      "ColorTabColorHex": "#f00000",
-      "ColorTabName": "cxcx"
+      "ColorTabColorHex": "#ff0000",
+      "ColorTabName": "sdsd"
     },
     {
       "ColorId": 2,
       "VersionId": 2,
-      "ColorTabColorHex": "#009dff",
-      "ColorTabName": "ewfr"
+      "ColorTabColorHex": "#00ffbf",
+      "ColorTabName": "cdvdc"
     }
   ]
 }
