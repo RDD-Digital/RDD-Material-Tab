@@ -2,7 +2,7 @@
   "FlattenedTrimItems": [
     {
       "TrimId": 1,
-      "Text": "sdsdsds",
+      "Text": "FDFDF",
       "Components": [
         "Cuscino"
       ],
@@ -12,9 +12,9 @@
     },
     {
       "TrimId": 2,
-      "Text": "sdzxxzxz",
+      "Text": "dffdfd",
       "Components": [
-        "Spalliera"
+        "Seduta"
       ],
       "TextureItemIds": [
         2
@@ -25,7 +25,7 @@
     {
       "TextureId": 1,
       "TrimId": 1,
-      "TextureName": "Glass",
+      "TextureName": "Fabric",
       "TextureVersionTabIds": [
         1
       ]
@@ -33,36 +33,38 @@
     {
       "TextureId": 2,
       "TrimId": 2,
-      "TextureName": "Leather",
-      "TextureVersionTabIds": []
+      "TextureName": "Stone",
+      "TextureVersionTabIds": [
+        2
+      ]
     }
   ],
   "FlattenedTextureVersionItems": [
     {
       "VersionId": 1,
       "TextureId": 1,
-      "VersionName": "dfdfdfd",
-      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/version1.png"
+      "VersionName": "cvcvcv",
+      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/version1_1736872778468.png"
     },
     {
       "VersionId": 2,
-      "TextureId": null,
-      "VersionName": "edsds",
-      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/version2.png"
+      "TextureId": 2,
+      "VersionName": "cvfvcv",
+      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/version2_1736872781350.png"
     }
   ],
   "FlattenedColorItems": [
     {
       "ColorId": 1,
-      "VersionId": 2,
-      "ColorTabColorHex": "#c72323",
-      "ColorTabName": "dfdf"
+      "VersionId": 1,
+      "ColorTabColorHex": "#f00000",
+      "ColorTabName": "cxcx"
     },
     {
       "ColorId": 2,
-      "VersionId": 1,
-      "ColorTabColorHex": "#00ff11",
-      "ColorTabName": "xcxcvxcv"
+      "VersionId": 2,
+      "ColorTabColorHex": "#009dff",
+      "ColorTabName": "ewfr"
     }
   ]
 }
