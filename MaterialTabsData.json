@@ -2,9 +2,10 @@
   "FlattenedTrimItems": [
     {
       "TrimId": 1,
-      "Text": "fdfdfdf",
+      "Text": "FINITURA 1",
       "Components": [
-        "Cuscino"
+        "Cuscino",
+        "Schienale"
       ],
       "TextureItemIds": [
         1
@@ -12,9 +13,10 @@
     },
     {
       "TrimId": 2,
-      "Text": "effefef",
+      "Text": "FINITURA 2",
       "Components": [
-        "Spalliera"
+        "Spalliera",
+        "Seduta"
       ],
       "TextureItemIds": [
         2
@@ -25,7 +27,7 @@
     {
       "TextureId": 1,
       "TrimId": 1,
-      "TextureName": "Fabric",
+      "TextureName": "Tessuto",
       "TextureVersionTabIds": [
         1
       ]
@@ -33,7 +35,7 @@
     {
       "TextureId": 2,
       "TrimId": 2,
-      "TextureName": "Ceramic",
+      "TextureName": "Velluto",
       "TextureVersionTabIds": [
         2
       ]
@@ -43,28 +45,28 @@
     {
       "VersionId": 1,
       "TextureId": 1,
-      "VersionName": "ccxcd",
-      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/ccxcd.png"
+      "VersionName": "T001",
+      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/t001.png"
     },
     {
       "VersionId": 2,
       "TextureId": 2,
-      "VersionName": "etertert",
-      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/etertert.png"
+      "VersionName": "V001",
+      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/v001.png"
     }
   ],
   "FlattenedColorItems": [
     {
       "ColorId": 1,
       "VersionId": 1,
-      "ColorTabColorHex": "#ff0000",
-      "ColorTabName": "ererer"
+      "ColorTabColorHex": "#44ff00",
+      "ColorTabName": "VERDE"
     },
     {
       "ColorId": 2,
       "VersionId": 2,
-      "ColorTabColorHex": "#00ffb3",
-      "ColorTabName": "dfdf"
+      "ColorTabColorHex": "#ffdd00",
+      "ColorTabName": "GIALLO"
     }
   ]
 }
