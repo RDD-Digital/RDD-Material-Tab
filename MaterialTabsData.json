@@ -2,7 +2,7 @@
   "FlattenedTrimItems": [
     {
       "TrimId": 1,
-      "Text": "xccxxcxcx",
+      "Text": "fdfdfdf",
       "Components": [
         "Cuscino"
       ],
@@ -12,9 +12,9 @@
     },
     {
       "TrimId": 2,
-      "Text": "cecece",
+      "Text": "effefef",
       "Components": [
-        "Schienale"
+        "Spalliera"
       ],
       "TextureItemIds": [
         2
@@ -25,7 +25,7 @@
     {
       "TextureId": 1,
       "TrimId": 1,
-      "TextureName": "Glass",
+      "TextureName": "Fabric",
       "TextureVersionTabIds": [
         1
       ]
@@ -33,7 +33,7 @@
     {
       "TextureId": 2,
       "TrimId": 2,
-      "TextureName": "Stone",
+      "TextureName": "Ceramic",
       "TextureVersionTabIds": [
         2
       ]
@@ -43,14 +43,14 @@
     {
       "VersionId": 1,
       "TextureId": 1,
-      "VersionName": "cvxcxc",
-      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/version1_1736873102490.png"
+      "VersionName": "ccxcd",
+      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/ccxcd.png"
     },
     {
       "VersionId": 2,
       "TextureId": 2,
-      "VersionName": "cwececw",
-      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/version2_1736873105237.png"
+      "VersionName": "etertert",
+      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/etertert.png"
     }
   ],
   "FlattenedColorItems": [
@@ -58,13 +58,13 @@
       "ColorId": 1,
       "VersionId": 1,
       "ColorTabColorHex": "#ff0000",
-      "ColorTabName": "sdsd"
+      "ColorTabName": "ererer"
     },
     {
       "ColorId": 2,
       "VersionId": 2,
-      "ColorTabColorHex": "#00ffbf",
-      "ColorTabName": "cdvdc"
+      "ColorTabColorHex": "#00ffb3",
+      "ColorTabName": "dfdf"
     }
   ]
 }
