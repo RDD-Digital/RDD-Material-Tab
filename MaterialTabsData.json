@@ -2,33 +2,83 @@
   "FlattenedTrimItems": [
     {
       "TrimId": 1,
-      "Text": "",
-      "Components": [],
-      "TextureItemIds": []
+      "Text": "FINITURA 1",
+      "Components": [
+        "Cuscino",
+        "Schienale"
+      ],
+      "TextureItemIds": [
+        1
+      ]
+    },
+    {
+      "TrimId": 2,
+      "Text": "FINITURA 2",
+      "Components": [
+        "Spalliera",
+        "Seduta"
+      ],
+      "TextureItemIds": [
+        2
+      ]
     }
   ],
   "FlattenedTextureItems": [
     {
       "TextureId": 1,
-      "TrimId": null,
-      "TextureName": "",
-      "TextureVersionTabIds": []
+      "TrimId": 1,
+      "TextureName": "Tessuto",
+      "TextureVersionTabIds": [
+        1
+      ]
+    },
+    {
+      "TextureId": 2,
+      "TrimId": 2,
+      "TextureName": "Velluto",
+      "TextureVersionTabIds": [
+        2
+      ]
     }
   ],
   "FlattenedTextureVersionItems": [
     {
       "VersionId": 1,
-      "TextureId": null,
-      "VersionName": "",
-      "ImageURL": ""
+      "TextureId": 1,
+      "VersionName": "T001",
+      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/t001.png"
+    },
+    {
+      "VersionId": 2,
+      "TextureId": 2,
+      "VersionName": "V001",
+      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/v001.png"
     }
   ],
   "FlattenedColorItems": [
     {
       "ColorId": 1,
-      "VersionId": null,
-      "ColorTabColorHex": "#FFFFFF",
-      "ColorTabName": ""
+      "VersionId": 1,
+      "ColorTabColorHex": "#80ff00",
+      "ColorTabName": "verde"
+    },
+    {
+      "ColorId": 2,
+      "VersionId": 2,
+      "ColorTabColorHex": "#fbff00",
+      "ColorTabName": "giallo"
+    },
+    {
+      "ColorId": 3,
+      "VersionId": 2,
+      "ColorTabColorHex": "#ff0000",
+      "ColorTabName": "rosso"
+    },
+    {
+      "ColorId": 4,
+      "VersionId": 2,
+      "ColorTabColorHex": "#8c00ff",
+      "ColorTabName": "viola"
     }
   ]
 }
