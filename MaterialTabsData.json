@@ -67,6 +67,18 @@
       "VersionId": 2,
       "ColorTabColorHex": "#fbff00",
       "ColorTabName": "giallo"
+    },
+    {
+      "ColorId": 3,
+      "VersionId": 1,
+      "ColorTabColorHex": "#ff0000",
+      "ColorTabName": "ROsso"
+    },
+    {
+      "ColorId": 4,
+      "VersionId": 2,
+      "ColorTabColorHex": "#00ccff",
+      "ColorTabName": "celeste"
     }
   ]
 }
