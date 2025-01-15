@@ -46,13 +46,13 @@
       "VersionId": 1,
       "TextureId": 1,
       "VersionName": "T001",
-      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/t001.png"
+      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/t001.jpg"
     },
     {
       "VersionId": 2,
       "TextureId": 2,
       "VersionName": "V001",
-      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/v001.png"
+      "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/v001.jpg"
     }
   ],
   "FlattenedColorItems": [
