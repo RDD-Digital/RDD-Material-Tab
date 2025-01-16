@@ -60,7 +60,7 @@
       "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/velluto/v001/Albedo.jpg",
       "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/velluto/v001/Mask.jpg",
       "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/velluto/v001/Normal.jpg",
-      "RimNoiseURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/velluto/v001/RimNoise.jpg"
+      "RimNoiseURL": ""
     }
   ],
   "FlattenedColorItems": [
