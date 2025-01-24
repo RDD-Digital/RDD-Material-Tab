@@ -5,7 +5,8 @@
       "Text": "FINITURA 1",
       "Components": [
         "Cuscino",
-        "Schienale"
+        "Schienale",
+        "Seduta"
       ],
       "TextureItemIds": [
         1
@@ -15,8 +16,7 @@
       "TrimId": 2,
       "Text": "FINITURA 2",
       "Components": [
-        "Spalliera",
-        "Seduta"
+        "Spalliera"
       ],
       "TextureItemIds": [
         2
