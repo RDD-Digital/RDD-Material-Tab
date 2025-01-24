@@ -49,7 +49,7 @@
       "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/t001.jpg",
       "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t001/Albedo.jpg",
       "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t001/Mask.jpg",
-      "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t001/Normal.jpg",
+      "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t001/Normal.png",
       "RimNoiseURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t001/RimNoise.jpg"
     },
     {
@@ -59,7 +59,7 @@
       "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/v001.jpg",
       "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/velluto/v001/Albedo.jpg",
       "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/velluto/v001/Mask.jpg",
-      "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/velluto/v001/Normal.jpg",
+      "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/velluto/v001/Normal.png",
       "RimNoiseURL": ""
     }
   ],
