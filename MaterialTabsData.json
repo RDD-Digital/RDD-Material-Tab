@@ -1,7 +1,18 @@
 {
+  "FlattenedModeItems": [
+    {
+      "ModeId": 1,
+      "ModeName": "MONO RIVESTIMENTO"
+    },
+    {
+      "ModeId": 2,
+      "ModeName": "PLURI RIVESTIMENTO"
+    }
+  ],
   "FlattenedTrimItems": [
     {
       "TrimId": 1,
+      "ModeId": 1,
       "Text": "FINITURA 1",
       "Components": [
         "Cuscino",
@@ -14,6 +25,7 @@
     },
     {
       "TrimId": 2,
+      "ModeId": 2,
       "Text": "FINITURA 2",
       "Components": [
         "Spalliera"
