@@ -13,11 +13,12 @@
     {
       "TrimId": 1,
       "ModeId": 1,
-      "Text": "FINITURA 1",
+      "Text": "TUTTO",
       "Components": [
         "Cuscino",
         "Schienale",
-        "Seduta"
+        "Seduta",
+        "Spalliera"
       ],
       "TextureItemIds": [
         1
@@ -26,9 +27,9 @@
     {
       "TrimId": 2,
       "ModeId": 2,
-      "Text": "FINITURA 2",
+      "Text": "SEDUTA",
       "Components": [
-        "Spalliera"
+        "Seduta"
       ],
       "TextureItemIds": [
         2
