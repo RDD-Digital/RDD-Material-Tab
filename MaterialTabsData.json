@@ -13,12 +13,13 @@
     {
       "TrimId": 1,
       "ModeId": 1,
-      "Text": "TUTTO",
+      "Text": "",
       "Components": [
         "Cuscino",
+        "Spalliera",
         "Schienale",
         "Seduta",
-        "Spalliera"
+        "Piedi"
       ],
       "TextureItemIds": [
         1
