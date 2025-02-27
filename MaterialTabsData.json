@@ -2,11 +2,11 @@
   "FlattenedModeItems": [
     {
       "ModeId": 1,
-      "ModeName": "MONO RIVESTIMENTO"
+      "ModeName": "Mono Rivestimento"
     },
     {
       "ModeId": 2,
-      "ModeName": "PLURI RIVESTIMENTO"
+      "ModeName": "Pluri Rivestimento"
     }
   ],
   "FlattenedTrimItems": [
