@@ -1,111 +1,94 @@
 {
-  "FlattenedModeItems": [
+  "ModeItems": [
     {
       "ModeId": 1,
-      "ModeName": "Mono Rivestimento"
+      "ModeName": "Mono Rivestimento",
+      "TrimItems": [
+        {
+          "TrimId": 1,
+          "Text": "",
+          "Components": [
+            "Sponda",
+            "Seduta",
+            "Poggiareni",
+            "Spalliera",
+            "Poggiatesta",
+            "Scocca",
+            "Bracciolo"
+          ],
+          "TextureItems": [
+            {
+              "TextureId": 1,
+              "TextureName": "Pelle",
+              "TextureVersionTabItems": [
+                {
+                  "VersionId": 1,
+                  "VersionName": "P03 - Vogue",
+                  "ImageURL": "",
+                  "AlbedoURL": "",
+                  "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
+                  "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
+                  "RimNoiseURL": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "ModeId": 2,
-      "ModeName": "Pluri Rivestimento"
-    }
-  ],
-  "FlattenedTrimItems": [
-    {
-      "TrimId": 1,
-      "ModeId": 1,
-      "Text": "",
-      "Components": [
-        "Sponda",
-        "Seduta",
-        "Poggiareni",
-        "Spalliera",
-        "Poggiatesta",
-        "Scocca",
-        "Bracciolo"
-      ],
-      "TextureItemIds": [
-        1
+      "ModeName": "Pluri Rivestimento",
+      "TrimItems": [
+        {
+          "TrimId": 2,
+          "Text": "SEDUTA",
+          "Components": [
+            "Seduta"
+          ],
+          "TextureItems": [
+            {
+              "TextureId": 2,
+              "TextureName": "Pelle",
+              "TextureVersionTabItems": [
+                {
+                  "VersionId": 2,
+                  "VersionName": "P03 - Vogue",
+                  "ImageURL": "",
+                  "AlbedoURL": "",
+                  "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
+                  "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
+                  "RimNoiseURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "TrimId": 3,
+          "Text": "SCOCCA",
+          "Components": [
+            "Scocca"
+          ],
+          "TextureItems": [
+            {
+              "TextureId": 3,
+              "TextureName": "Pelle",
+              "TextureVersionTabItems": [
+                {
+                  "VersionId": 3,
+                  "VersionName": "P03 - Vogue",
+                  "ImageURL": "",
+                  "AlbedoURL": "",
+                  "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
+                  "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
+                  "RimNoiseURL": ""
+                }
+              ]
+            }
+          ]
+        }
       ]
-    },
-    {
-      "TrimId": 2,
-      "ModeId": 2,
-      "Text": "SEDUTA",
-      "Components": [
-        "Seduta"
-      ],
-      "TextureItemIds": [
-        2
-      ]
-    },
-    {
-      "TrimId": 3,
-      "ModeId": 2,
-      "Text": "SCOCCA",
-      "Components": [
-        "Scocca"
-      ],
-      "TextureItemIds": [
-        3
-      ]
-    }
-  ],
-  "FlattenedTextureItems": [
-    {
-      "TextureId": 1,
-      "TrimId": 1,
-      "TextureName": "Pelle",
-      "TextureVersionTabIds": [
-        1
-      ]
-    },
-    {
-      "TextureId": 2,
-      "TrimId": 2,
-      "TextureName": "Pelle",
-      "TextureVersionTabIds": [
-        2
-      ]
-    },
-    {
-      "TextureId": 3,
-      "TrimId": 3,
-      "TextureName": "Pelle",
-      "TextureVersionTabIds": [
-        3
-      ]
-    }
-  ],
-  "FlattenedTextureVersionItems": [
-    {
-      "VersionId": 1,
-      "TextureId": 1,
-      "VersionName": "P03 - Vogue",
-      "ImageURL": "",
-      "AlbedoURL": "",
-      "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
-      "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
-      "RimNoiseURL": ""
-    },
-    {
-      "VersionId": 2,
-      "TextureId": 2,
-      "VersionName": "P03 - Vogue",
-      "ImageURL": "",
-      "AlbedoURL": "",
-      "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
-      "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
-      "RimNoiseURL": ""
-    },
-    {
-      "VersionId": 3,
-      "TextureId": 3,
-      "VersionName": "P03 - Vogue",
-      "ImageURL": "",
-      "AlbedoURL": "",
-      "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
-      "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
-      "RimNoiseURL": ""
     }
   ],
   "FlattenedColorItems": [
