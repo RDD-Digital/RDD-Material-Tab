@@ -40,11 +40,11 @@
     {
       "VersionId": 1,
       "TextureId": 1,
-      "VersionName": "DFD",
+      "VersionName": "P03 - Vogue",
       "ImageURL": "",
       "AlbedoURL": "",
-      "MaskURL": "",
-      "NormalURL": "",
+      "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
+      "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
       "RimNoiseURL": ""
     }
   ],
@@ -52,8 +52,8 @@
     {
       "ColorId": 1,
       "VersionId": 1,
-      "ColorTabColorHex": "#ff0000",
-      "ColorTabName": "CVCV"
+      "ColorTabColorHex": "#d4d2c5",
+      "ColorTabName": "TEST1"
     }
   ]
 }
