@@ -36,11 +36,11 @@
     {
       "VersionId": 1,
       "TextureId": 1,
-      "VersionName": "FGFGFG",
+      "VersionName": "dfdfdf",
       "ImageURL": "",
       "AlbedoURL": "",
-      "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/fgfgfg_Mask.jpg",
-      "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/fgfgfg_Normal.png",
+      "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/dfdfdf/Mask.jpg",
+      "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/dfdfdf/Normal.png",
       "RimNoiseURL": ""
     }
   ],
@@ -49,7 +49,7 @@
       "ColorId": 1,
       "VersionId": 1,
       "ColorTabColorHex": "#ff0000",
-      "ColorTabName": "DDFFD"
+      "ColorTabName": "dfdfdfdf"
     }
   ]
 }
