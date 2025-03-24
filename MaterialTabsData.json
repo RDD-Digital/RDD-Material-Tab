@@ -21,16 +21,9 @@
         "Seduta",
         "Piedi"
       ],
-      "TextureItemIds": []
-    },
-    {
-      "TrimId": 2,
-      "ModeId": 2,
-      "Text": "SDSDS",
-      "Components": [
-        "Seduta"
-      ],
-      "TextureItemIds": []
+      "TextureItemIds": [
+        1
+      ]
     }
   ],
   "FlattenedTextureItems": [
@@ -41,35 +34,17 @@
       "TextureVersionTabIds": [
         1
       ]
-    },
-    {
-      "TextureId": 2,
-      "TrimId": 2,
-      "TextureName": "Pelle",
-      "TextureVersionTabIds": [
-        2
-      ]
     }
   ],
   "FlattenedTextureVersionItems": [
     {
       "VersionId": 1,
       "TextureId": 1,
-      "VersionName": "P03 - Vogue",
+      "VersionName": "DFD",
       "ImageURL": "",
       "AlbedoURL": "",
-      "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
-      "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
-      "RimNoiseURL": ""
-    },
-    {
-      "VersionId": 2,
-      "TextureId": 2,
-      "VersionName": "P03 - Vogue",
-      "ImageURL": "",
-      "AlbedoURL": "",
-      "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
-      "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
+      "MaskURL": "",
+      "NormalURL": "",
       "RimNoiseURL": ""
     }
   ],
@@ -78,13 +53,7 @@
       "ColorId": 1,
       "VersionId": 1,
       "ColorTabColorHex": "#ff0000",
-      "ColorTabName": "test1"
-    },
-    {
-      "ColorId": 2,
-      "VersionId": 2,
-      "ColorTabColorHex": "#ff0000",
-      "ColorTabName": "SDSD"
+      "ColorTabName": "CVCV"
     }
   ]
 }
