@@ -27,16 +27,16 @@
           "TextureName": "Pelle",
           "TextureVersionTabItems": [
             {
-              "VersionName": "P03 - Vogue",
+              "VersionName": "sdsd",
               "ImageURL": "",
               "AlbedoURL": "",
-              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/p03_-_vogue_Mask.jpg",
-              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/p03_-_vogue_Normal.png",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/unknown_texture/version_1/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/unknown_texture/version_1/Normal.png",
               "RimNoiseURL": "",
               "ColorTabItems": [
                 {
-                  "ColorTabColorHex": "#FFFFFF",
-                  "ColorTabName": "fdfdfd"
+                  "ColorTabColorHex": "#ff0000",
+                  "ColorTabName": "wewew"
                 }
               ]
             }
