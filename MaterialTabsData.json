@@ -15,14 +15,38 @@
       "ModeId": 1,
       "Text": "",
       "Components": [
-        "Cuscino",
-        "Spalliera",
-        "Schienale",
+        "Sponda",
         "Seduta",
-        "Piedi"
+        "Poggiareni",
+        "Spalliera",
+        "Poggiatesta",
+        "Scocca",
+        "Bracciolo"
       ],
       "TextureItemIds": [
         1
+      ]
+    },
+    {
+      "TrimId": 2,
+      "ModeId": 2,
+      "Text": "SEDUTA",
+      "Components": [
+        "Seduta"
+      ],
+      "TextureItemIds": [
+        2
+      ]
+    },
+    {
+      "TrimId": 3,
+      "ModeId": 2,
+      "Text": "SCOCCA",
+      "Components": [
+        "Scocca"
+      ],
+      "TextureItemIds": [
+        3
       ]
     }
   ],
@@ -33,6 +57,22 @@
       "TextureName": "Pelle",
       "TextureVersionTabIds": [
         1
+      ]
+    },
+    {
+      "TextureId": 2,
+      "TrimId": 2,
+      "TextureName": "Pelle",
+      "TextureVersionTabIds": [
+        2
+      ]
+    },
+    {
+      "TextureId": 3,
+      "TrimId": 3,
+      "TextureName": "Pelle",
+      "TextureVersionTabIds": [
+        3
       ]
     }
   ],
@@ -46,14 +86,46 @@
       "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
       "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
       "RimNoiseURL": ""
+    },
+    {
+      "VersionId": 2,
+      "TextureId": 2,
+      "VersionName": "P03 - Vogue",
+      "ImageURL": "",
+      "AlbedoURL": "",
+      "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
+      "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
+      "RimNoiseURL": ""
+    },
+    {
+      "VersionId": 3,
+      "TextureId": 3,
+      "VersionName": "P03 - Vogue",
+      "ImageURL": "",
+      "AlbedoURL": "",
+      "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
+      "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
+      "RimNoiseURL": ""
     }
   ],
   "FlattenedColorItems": [
     {
       "ColorId": 1,
       "VersionId": 1,
-      "ColorTabColorHex": "#d4d2c5",
-      "ColorTabName": "TEST1"
+      "ColorTabColorHex": "#d3cfc3",
+      "ColorTabName": "color1"
+    },
+    {
+      "ColorId": 2,
+      "VersionId": 2,
+      "ColorTabColorHex": "#d3cfc3",
+      "ColorTabName": "color2"
+    },
+    {
+      "ColorId": 3,
+      "VersionId": 3,
+      "ColorTabColorHex": "#d3cfc3",
+      "ColorTabName": "color3"
     }
   ]
 }
