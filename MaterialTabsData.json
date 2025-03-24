@@ -27,16 +27,16 @@
           "TextureName": "Pelle",
           "TextureVersionTabItems": [
             {
-              "VersionName": "sdsd",
+              "VersionName": "P03",
               "ImageURL": "",
               "AlbedoURL": "",
-              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/unknown_texture/version_1/Mask.jpg",
-              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/unknown_texture/version_1/Normal.png",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/unknowntex/version_1/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/unknowntex/version_1/Normal.png",
               "RimNoiseURL": "",
               "ColorTabItems": [
                 {
                   "ColorTabColorHex": "#ff0000",
-                  "ColorTabName": "wewew"
+                  "ColorTabName": "C3"
                 }
               ]
             }
