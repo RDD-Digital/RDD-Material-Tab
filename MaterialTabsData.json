@@ -27,16 +27,72 @@
           "TextureName": "Pelle",
           "TextureVersionTabItems": [
             {
-              "VersionName": "sdsds",
+              "VersionName": "P03 - Vogue",
               "ImageURL": "",
               "AlbedoURL": "",
-              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/sdsds/Mask.jpg",
-              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/sdsds/Normal.png",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
               "RimNoiseURL": "",
               "ColorTabItems": [
                 {
-                  "ColorTabColorHex": "#ff0000",
-                  "ColorTabName": "fgf"
+                  "ColorTabColorHex": "#d3d0c4",
+                  "ColorTabName": "color1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ModeId": 2,
+      "Text": "SEDUTA",
+      "Components": [
+        "Seduta"
+      ],
+      "TextureItems": [
+        {
+          "TextureName": "Pelle",
+          "TextureVersionTabItems": [
+            {
+              "VersionName": "P03 - Vogue",
+              "ImageURL": "",
+              "AlbedoURL": "",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
+              "RimNoiseURL": "",
+              "ColorTabItems": [
+                {
+                  "ColorTabColorHex": "#d3d0c4",
+                  "ColorTabName": "color2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ModeId": 2,
+      "Text": "SCOCCA",
+      "Components": [
+        "Scocca"
+      ],
+      "TextureItems": [
+        {
+          "TextureName": "Pelle",
+          "TextureVersionTabItems": [
+            {
+              "VersionName": "P03 - Vogue",
+              "ImageURL": "",
+              "AlbedoURL": "",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
+              "RimNoiseURL": "",
+              "ColorTabItems": [
+                {
+                  "ColorTabColorHex": "#d3d0c4",
+                  "ColorTabName": "color3"
                 }
               ]
             }
