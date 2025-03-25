@@ -171,7 +171,7 @@
             {
               "VersionName": "T4 - FLORENCE",
               "ImageURL": "",
-              "AlbedoURL": "",
+              "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Albedo.jpg",
               "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Mask.jpg",
               "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Normal.png",
               "RimNoiseURL": "",
