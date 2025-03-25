@@ -27,7 +27,7 @@
           "TextureName": "Pelle",
           "TextureVersionTabItems": [
             {
-              "VersionName": "P03 - Vogue",
+              "VersionName": "P03 - VOGUE",
               "ImageURL": "",
               "AlbedoURL": "",
               "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
@@ -36,63 +36,7 @@
               "ColorTabItems": [
                 {
                   "ColorTabColorHex": "#d3d0c4",
-                  "ColorTabName": "color1"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ModeId": 2,
-      "Text": "SEDUTA",
-      "Components": [
-        "Seduta"
-      ],
-      "TextureItems": [
-        {
-          "TextureName": "Pelle",
-          "TextureVersionTabItems": [
-            {
-              "VersionName": "P03 - Vogue",
-              "ImageURL": "",
-              "AlbedoURL": "",
-              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
-              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
-              "RimNoiseURL": "",
-              "ColorTabItems": [
-                {
-                  "ColorTabColorHex": "#d3d0c4",
-                  "ColorTabName": "color2"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ModeId": 2,
-      "Text": "SCOCCA",
-      "Components": [
-        "Scocca"
-      ],
-      "TextureItems": [
-        {
-          "TextureName": "Pelle",
-          "TextureVersionTabItems": [
-            {
-              "VersionName": "P03 - Vogue",
-              "ImageURL": "",
-              "AlbedoURL": "",
-              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
-              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
-              "RimNoiseURL": "",
-              "ColorTabItems": [
-                {
-                  "ColorTabColorHex": "#d3d0c4",
-                  "ColorTabName": "color3"
+                  "ColorTabName": "3904 IVORY"
                 }
               ]
             }
@@ -114,21 +58,131 @@
       ],
       "TextureItems": [
         {
-          "TextureName": "Velluto",
+          "TextureName": "Tessuto",
           "TextureVersionTabItems": [
             {
-              "VersionName": "testVel",
+              "VersionName": "T4 - FLORENCE",
               "ImageURL": "",
               "AlbedoURL": "",
-              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/velluto/testvel/Mask.jpg",
-              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/velluto/testvel/Normal.png",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Normal.png",
               "RimNoiseURL": "",
-              "ColorTabItems": [
-                {
-                  "ColorTabColorHex": "#ff0000",
-                  "ColorTabName": "color4"
-                }
-              ]
+              "ColorTabItems": []
+            },
+            {
+              "VersionName": "T4 - VENICE",
+              "ImageURL": "",
+              "AlbedoURL": "",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Normal.png",
+              "RimNoiseURL": "",
+              "ColorTabItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ModeId": 1,
+      "Text": "",
+      "Components": [
+        "Sponda",
+        "Seduta",
+        "Poggiareni",
+        "Spalliera",
+        "Poggiatesta",
+        "Scocca",
+        "Bracciolo"
+      ],
+      "TextureItems": []
+    },
+    {
+      "ModeId": 2,
+      "Text": "SEDUTA",
+      "Components": [
+        "Seduta"
+      ],
+      "TextureItems": [
+        {
+          "TextureName": "Pelle",
+          "TextureVersionTabItems": [
+            {
+              "VersionName": "P03 - VOGUE",
+              "ImageURL": "",
+              "AlbedoURL": "",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
+              "RimNoiseURL": "",
+              "ColorTabItems": []
+            }
+          ]
+        },
+        {
+          "TextureName": "Tessuto",
+          "TextureVersionTabItems": [
+            {
+              "VersionName": "T4 - FLORENCE",
+              "ImageURL": "",
+              "AlbedoURL": "",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Normal.png",
+              "RimNoiseURL": "",
+              "ColorTabItems": []
+            },
+            {
+              "VersionName": "T4 - VENICE",
+              "ImageURL": "",
+              "AlbedoURL": "",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Normal.png",
+              "RimNoiseURL": "",
+              "ColorTabItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ModeId": 2,
+      "Text": "SCOCCA",
+      "Components": [
+        "Scocca"
+      ],
+      "TextureItems": [
+        {
+          "TextureName": "Pelle",
+          "TextureVersionTabItems": [
+            {
+              "VersionName": "P03 - VOGUE",
+              "ImageURL": "",
+              "AlbedoURL": "",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
+              "RimNoiseURL": "",
+              "ColorTabItems": []
+            }
+          ]
+        },
+        {
+          "TextureName": "Tessuto",
+          "TextureVersionTabItems": [
+            {
+              "VersionName": "T4 - FLORENCE",
+              "ImageURL": "",
+              "AlbedoURL": "",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Normal.png",
+              "RimNoiseURL": "",
+              "ColorTabItems": []
+            },
+            {
+              "VersionName": "T4 - VENICE",
+              "ImageURL": "",
+              "AlbedoURL": "",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Normal.png",
+              "RimNoiseURL": "",
+              "ColorTabItems": []
             }
           ]
         }
