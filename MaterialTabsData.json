@@ -281,7 +281,7 @@
             {
               "VersionName": "T4 - VENICE",
               "ImageURL": "",
-              "AlbedoURL": "",
+              "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Albedo.jpg",
               "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Mask.jpg",
               "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Normal.png",
               "RimNoiseURL": "",
