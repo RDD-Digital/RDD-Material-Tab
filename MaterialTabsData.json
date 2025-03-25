@@ -175,7 +175,108 @@
               "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Mask.jpg",
               "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Normal.png",
               "RimNoiseURL": "",
-              "ColorTabItems": []
+              "ColorTabItems": [
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "53"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "56"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "51"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "90"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "9"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "11"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "27"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "46"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "357"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "330"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "407"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "309"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "30"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "266"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "324"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "342"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "302"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "60"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "434"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "53"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "347"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "336"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "300"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "271"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "10"
+                }
+              ]
             },
             {
               "VersionName": "T4 - VENICE",
@@ -184,7 +285,144 @@
               "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Mask.jpg",
               "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Normal.png",
               "RimNoiseURL": "",
-              "ColorTabItems": []
+              "ColorTabItems": [
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "94"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "50"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "336"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "324"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "156"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "250"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "349"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "80"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "111"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "131"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "7"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "625"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "514"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "62"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "61"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "618"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "43"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "339"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "29"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "8"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "458"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "226"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "667"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "94"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "53"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "510"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "11"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "214"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "60"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "300"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "13"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "213"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "271"
+                },
+                {
+                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabName": "15"
+                }
+              ]
             }
           ]
         }
