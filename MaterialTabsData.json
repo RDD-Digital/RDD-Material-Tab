@@ -99,6 +99,40 @@
           ]
         }
       ]
+    },
+    {
+      "ModeId": 1,
+      "Text": "",
+      "Components": [
+        "Sponda",
+        "Seduta",
+        "Poggiareni",
+        "Spalliera",
+        "Poggiatesta",
+        "Scocca",
+        "Bracciolo"
+      ],
+      "TextureItems": [
+        {
+          "TextureName": "Velluto",
+          "TextureVersionTabItems": [
+            {
+              "VersionName": "testVel",
+              "ImageURL": "",
+              "AlbedoURL": "",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/velluto/testvel/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/velluto/testvel/Normal.png",
+              "RimNoiseURL": "",
+              "ColorTabItems": [
+                {
+                  "ColorTabColorHex": "#ff0000",
+                  "ColorTabName": "color4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
