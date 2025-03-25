@@ -287,15 +287,15 @@
               "RimNoiseURL": "",
               "ColorTabItems": [
                 {
-                  "ColorTabColorHex": "#93a3ae",
+                  "ColorTabColorHex": "#a3b2bd",
                   "ColorTabName": "94"
                 },
                 {
-                  "ColorTabColorHex": "#f6f2ea",
+                  "ColorTabColorHex": "#fffaf0",
                   "ColorTabName": "50"
                 },
                 {
-                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabColorHex": "#dedede",
                   "ColorTabName": "336"
                 },
                 {
@@ -303,7 +303,7 @@
                   "ColorTabName": "324"
                 },
                 {
-                  "ColorTabColorHex": "#FFFFFF",
+                  "ColorTabColorHex": "#d4cabf",
                   "ColorTabName": "156"
                 },
                 {
