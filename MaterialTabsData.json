@@ -177,10 +177,6 @@
               "RimNoiseURL": "",
               "ColorTabItems": [
                 {
-                  "ColorTabColorHex": "#758dbd",
-                  "ColorTabName": "53"
-                },
-                {
                   "ColorTabColorHex": "#cecac0",
                   "ColorTabName": "56"
                 },
@@ -253,8 +249,16 @@
                   "ColorTabName": "434"
                 },
                 {
+                  "ColorTabColorHex": "#758dbd",
+                  "ColorTabName": "53"
+                },
+                {
                   "ColorTabColorHex": "#afbbb6",
                   "ColorTabName": "347"
+                },
+                {
+                  "ColorTabColorHex": "#c9c9c9",
+                  "ColorTabName": "156"
                 },
                 {
                   "ColorTabColorHex": "#c0bcb9",
@@ -282,10 +286,6 @@
               "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Normal.png",
               "RimNoiseURL": "",
               "ColorTabItems": [
-                {
-                  "ColorTabColorHex": "#a3b2bd",
-                  "ColorTabName": "94"
-                },
                 {
                   "ColorTabColorHex": "#eae5dc",
                   "ColorTabName": "50"
@@ -373,6 +373,10 @@
                 {
                   "ColorTabColorHex": "#934d5f",
                   "ColorTabName": "667"
+                },
+                {
+                  "ColorTabColorHex": "#a3b2bd",
+                  "ColorTabName": "94"
                 },
                 {
                   "ColorTabColorHex": "#69769b",
