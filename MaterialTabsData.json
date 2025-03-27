@@ -582,7 +582,108 @@
               "MaskURL": "",
               "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Normal.png",
               "RimNoiseURL": "",
-              "ColorTabItems": []
+              "ColorTabItems": [
+                {
+                  "ColorTabColorHex": "#cecac0",
+                  "ColorTabName": "56"
+                },
+                {
+                  "ColorTabColorHex": "#c6bfb3",
+                  "ColorTabName": "51"
+                },
+                {
+                  "ColorTabColorHex": "#b3aea2",
+                  "ColorTabName": "90"
+                },
+                {
+                  "ColorTabColorHex": "#959183",
+                  "ColorTabName": "9"
+                },
+                {
+                  "ColorTabColorHex": "#7e7463",
+                  "ColorTabName": "11"
+                },
+                {
+                  "ColorTabColorHex": "#625746",
+                  "ColorTabName": "27"
+                },
+                {
+                  "ColorTabColorHex": "#bf9845",
+                  "ColorTabName": "46"
+                },
+                {
+                  "ColorTabColorHex": "#a28649",
+                  "ColorTabName": "357"
+                },
+                {
+                  "ColorTabColorHex": "#8d9550",
+                  "ColorTabName": "330"
+                },
+                {
+                  "ColorTabColorHex": "#576a44",
+                  "ColorTabName": "407"
+                },
+                {
+                  "ColorTabColorHex": "#bb3e3e",
+                  "ColorTabName": "309"
+                },
+                {
+                  "ColorTabColorHex": "#b65535",
+                  "ColorTabName": "30"
+                },
+                {
+                  "ColorTabColorHex": "#9e3f2e",
+                  "ColorTabName": "266"
+                },
+                {
+                  "ColorTabColorHex": "#b1a5a6",
+                  "ColorTabName": "324"
+                },
+                {
+                  "ColorTabColorHex": "#b18c91",
+                  "ColorTabName": "342"
+                },
+                {
+                  "ColorTabColorHex": "#783f4b",
+                  "ColorTabName": "302"
+                },
+                {
+                  "ColorTabColorHex": "#37313a",
+                  "ColorTabName": "60"
+                },
+                {
+                  "ColorTabColorHex": "#3c5d9f",
+                  "ColorTabName": "434"
+                },
+                {
+                  "ColorTabColorHex": "#758dbd",
+                  "ColorTabName": "53"
+                },
+                {
+                  "ColorTabColorHex": "#afbbb6",
+                  "ColorTabName": "347"
+                },
+                {
+                  "ColorTabColorHex": "#c9c9c9",
+                  "ColorTabName": "156"
+                },
+                {
+                  "ColorTabColorHex": "#c0bcb9",
+                  "ColorTabName": "336"
+                },
+                {
+                  "ColorTabColorHex": "#b3b0ad",
+                  "ColorTabName": "300"
+                },
+                {
+                  "ColorTabColorHex": "#908e89",
+                  "ColorTabName": "271"
+                },
+                {
+                  "ColorTabColorHex": "#2e2e2e",
+                  "ColorTabName": "10"
+                }
+              ]
             },
             {
               "VersionName": "T4 - VENICE",
@@ -591,7 +692,140 @@
               "MaskURL": "",
               "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Normal.png",
               "RimNoiseURL": "",
-              "ColorTabItems": []
+              "ColorTabItems": [
+                {
+                  "ColorTabColorHex": "#eae5dc",
+                  "ColorTabName": "50"
+                },
+                {
+                  "ColorTabColorHex": "#d2d1d0",
+                  "ColorTabName": "336"
+                },
+                {
+                  "ColorTabColorHex": "#edebe8",
+                  "ColorTabName": "324"
+                },
+                {
+                  "ColorTabColorHex": "#d2cabc",
+                  "ColorTabName": "156"
+                },
+                {
+                  "ColorTabColorHex": "#c3b5a2",
+                  "ColorTabName": "250"
+                },
+                {
+                  "ColorTabColorHex": "#a89985",
+                  "ColorTabName": "349"
+                },
+                {
+                  "ColorTabColorHex": "#ada094",
+                  "ColorTabName": "80"
+                },
+                {
+                  "ColorTabColorHex": "#957c6f",
+                  "ColorTabName": "111"
+                },
+                {
+                  "ColorTabColorHex": "#645b4f",
+                  "ColorTabName": "131"
+                },
+                {
+                  "ColorTabColorHex": "#59524a",
+                  "ColorTabName": "7"
+                },
+                {
+                  "ColorTabColorHex": "#c3a055",
+                  "ColorTabName": "625"
+                },
+                {
+                  "ColorTabColorHex": "#bba75d",
+                  "ColorTabName": "514"
+                },
+                {
+                  "ColorTabColorHex": "#d5875d",
+                  "ColorTabName": "62"
+                },
+                {
+                  "ColorTabColorHex": "#8e9763",
+                  "ColorTabName": "61"
+                },
+                {
+                  "ColorTabColorHex": "#8b9051",
+                  "ColorTabName": "618"
+                },
+                {
+                  "ColorTabColorHex": "#9aa092",
+                  "ColorTabName": "43"
+                },
+                {
+                  "ColorTabColorHex": "#5f605c",
+                  "ColorTabName": "339"
+                },
+                {
+                  "ColorTabColorHex": "#c6726c",
+                  "ColorTabName": "29"
+                },
+                {
+                  "ColorTabColorHex": "#b54545",
+                  "ColorTabName": "8"
+                },
+                {
+                  "ColorTabColorHex": "#cb6d4d",
+                  "ColorTabName": "458"
+                },
+                {
+                  "ColorTabColorHex": "#9c5454",
+                  "ColorTabName": "226"
+                },
+                {
+                  "ColorTabColorHex": "#934d5f",
+                  "ColorTabName": "667"
+                },
+                {
+                  "ColorTabColorHex": "#a3b2bd",
+                  "ColorTabName": "94"
+                },
+                {
+                  "ColorTabColorHex": "#69769b",
+                  "ColorTabName": "53"
+                },
+                {
+                  "ColorTabColorHex": "#65899f",
+                  "ColorTabName": "510"
+                },
+                {
+                  "ColorTabColorHex": "#5d6689",
+                  "ColorTabName": "11"
+                },
+                {
+                  "ColorTabColorHex": "#555d68",
+                  "ColorTabName": "214"
+                },
+                {
+                  "ColorTabColorHex": "#3c404e",
+                  "ColorTabName": "60"
+                },
+                {
+                  "ColorTabColorHex": "#cbcac8",
+                  "ColorTabName": "300"
+                },
+                {
+                  "ColorTabColorHex": "#b5b3b0",
+                  "ColorTabName": "13"
+                },
+                {
+                  "ColorTabColorHex": "#8b8a89",
+                  "ColorTabName": "213"
+                },
+                {
+                  "ColorTabColorHex": "#6a6562",
+                  "ColorTabName": "271"
+                },
+                {
+                  "ColorTabColorHex": "#514848",
+                  "ColorTabName": "15"
+                }
+              ]
             }
           ]
         }
