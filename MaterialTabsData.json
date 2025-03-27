@@ -30,7 +30,7 @@
               "VersionName": "P03 - VOGUE",
               "ImageURL": "",
               "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Albedo.jpg",
-              "MaskURL": "",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
               "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
               "RimNoiseURL": "",
               "ColorTabItems": [
