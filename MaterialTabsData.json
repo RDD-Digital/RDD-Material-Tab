@@ -455,7 +455,120 @@
               "MaskURL": "",
               "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
               "RimNoiseURL": "",
-              "ColorTabItems": []
+              "ColorTabItems": [
+                {
+                  "ColorTabColorHex": "#c6c2b3",
+                  "ColorTabName": "3904 IVORY"
+                },
+                {
+                  "ColorTabColorHex": "#9d9480",
+                  "ColorTabName": "3915 DUST"
+                },
+                {
+                  "ColorTabColorHex": "#b9ab98",
+                  "ColorTabName": "3957 BEIGE"
+                },
+                {
+                  "ColorTabColorHex": "#b4998d",
+                  "ColorTabName": "3909 PINK"
+                },
+                {
+                  "ColorTabColorHex": "#907b6f",
+                  "ColorTabName": "3910 EARTH"
+                },
+                {
+                  "ColorTabColorHex": "#887d72",
+                  "ColorTabName": "3916 TAUPE"
+                },
+                {
+                  "ColorTabColorHex": "#72685f",
+                  "ColorTabName": "3901 TABACCO"
+                },
+                {
+                  "ColorTabColorHex": "#a07664",
+                  "ColorTabName": "3919 RUST"
+                },
+                {
+                  "ColorTabColorHex": "#967c64",
+                  "ColorTabName": "3921 CAMEL"
+                },
+                {
+                  "ColorTabColorHex": "#6a5544",
+                  "ColorTabName": "3911 CUERO"
+                },
+                {
+                  "ColorTabColorHex": "#935b4d",
+                  "ColorTabName": "3958 BURGUNDY"
+                },
+                {
+                  "ColorTabColorHex": "#c2565c",
+                  "ColorTabName": "3959 FUOCO"
+                },
+                {
+                  "ColorTabColorHex": "#ca8681",
+                  "ColorTabName": "3907 ROJO"
+                },
+                {
+                  "ColorTabColorHex": "#c3a360",
+                  "ColorTabName": "3918 AMARINO"
+                },
+                {
+                  "ColorTabColorHex": "#bead7e",
+                  "ColorTabName": "3920 MOSTAZA"
+                },
+                {
+                  "ColorTabColorHex": "#77786d",
+                  "ColorTabName": "3925 MOSS"
+                },
+                {
+                  "ColorTabColorHex": "#6c756e",
+                  "ColorTabName": "3926 JUNGLE"
+                },
+                {
+                  "ColorTabColorHex": "#696a5c",
+                  "ColorTabName": "3922 KAKY"
+                },
+                {
+                  "ColorTabColorHex": "#635f4f",
+                  "ColorTabName": "3902 MARRON"
+                },
+                {
+                  "ColorTabColorHex": "#979187",
+                  "ColorTabName": "3917 DUNE"
+                },
+                {
+                  "ColorTabColorHex": "#bcb5ae",
+                  "ColorTabName": "3908 LIGHT GREY"
+                },
+                {
+                  "ColorTabColorHex": "#8a8785",
+                  "ColorTabName": "3906 STEEL"
+                },
+                {
+                  "ColorTabColorHex": "#61615c",
+                  "ColorTabName": "3912 MOUSE"
+                },
+                {
+                  "ColorTabColorHex": "#a0acaa",
+                  "ColorTabName": "3903 SAFIRA"
+                },
+                {
+                  "ColorTabColorHex": "#787c87",
+                  "ColorTabName": "3927 SMOKE"
+                },
+                {
+                  "ColorTabColorHex": "#5f6267",
+                  "ColorTabName": "3929 AZUL"
+                },
+                {
+                  "ColorTabColorHex": "#727374",
+                  "ColorTabName": "3928 NIGHT"
+                },
+                {
+                  "ColorTabColorHex": "#3d3d3d",
+                  "ColorTabName": "3960 BLACK"
+                }
+              ]
             }
           ]
         },
