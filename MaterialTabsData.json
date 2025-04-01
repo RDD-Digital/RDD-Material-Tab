@@ -28,7 +28,7 @@
           "TextureVersionTabItems": [
             {
               "VersionName": "P3 - VOGUE",
-              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/refs/heads/main/images/p3_-_vogue.jpg",
+              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/p3_-_vogue.jpg",
               "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Albedo.jpg",
               "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
               "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
