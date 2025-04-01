@@ -28,7 +28,7 @@
           "TextureVersionTabItems": [
             {
               "VersionName": "P3 - VOGUE",
-              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/refs/heads/main/images/ChatGPT%20Image%201%20apr%202025%2C%2014_15_09%20copy%202.jpg",
+              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/p3_-_vogue.jpg",
               "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Albedo.jpg",
               "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
               "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
@@ -170,7 +170,7 @@
           "TextureVersionTabItems": [
             {
               "VersionName": "T4 - FLORENCE",
-              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/refs/heads/main/images/Florence_BUTTON_rev1%20copy.jpg",
+              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/t4_-_florence.jpg",
               "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Albedo.jpg",
               "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Mask.jpg",
               "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Normal.png",
@@ -450,7 +450,7 @@
           "TextureVersionTabItems": [
             {
               "VersionName": "P3 - VOGUE",
-              "ImageURL": "",
+              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/p3_-_vogue.jpg",
               "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Albedo.jpg",
               "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
               "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
@@ -577,7 +577,7 @@
           "TextureVersionTabItems": [
             {
               "VersionName": "T4 - FLORENCE",
-              "ImageURL": "",
+              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/t4_-_florence.jpg",
               "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Albedo.jpg",
               "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Mask.jpg",
               "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Normal.png",
@@ -687,7 +687,7 @@
             },
             {
               "VersionName": "T4 - VENICE",
-              "ImageURL": "",
+              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/t4_-_venice.jpg",
               "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Albedo.jpg",
               "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Mask.jpg",
               "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Normal.png",
@@ -843,7 +843,7 @@
           "TextureVersionTabItems": [
             {
               "VersionName": "P3 - VOGUE",
-              "ImageURL": "",
+              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/p3_-_vogue.jpg",
               "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Albedo.jpg",
               "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
               "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
@@ -970,7 +970,7 @@
           "TextureVersionTabItems": [
             {
               "VersionName": "T4 - FLORENCE",
-              "ImageURL": "",
+              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/t4_-_florence.jpg",
               "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Albedo.jpg",
               "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Mask.jpg",
               "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Normal.png",
@@ -1080,7 +1080,7 @@
             },
             {
               "VersionName": "T4 - VENICE",
-              "ImageURL": "",
+              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/t4_-_venice.jpg",
               "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Albedo.jpg",
               "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Mask.jpg",
               "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Normal.png",
