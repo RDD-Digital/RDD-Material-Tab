@@ -1,0 +1,1228 @@
+{
+  "ModeItems": [
+    {
+      "ModeId": 1,
+      "ModeName": "Mono Rivestimento"
+    },
+    {
+      "ModeId": 2,
+      "ModeName": "Pluri Rivestimento"
+    }
+  ],
+  "TrimItems": [
+    {
+      "ModeId": 1,
+      "Text": "",
+      "Components": [
+        "Sponda",
+        "Seduta",
+        "Poggiareni",
+        "Spalliera",
+        "Poggiatesta",
+        "Scocca",
+        "Bracciolo"
+      ],
+      "TextureItems": [
+        {
+          "TextureName": "Pelle",
+          "TextureVersionTabItems": [
+            {
+              "VersionName": "P3 - VOGUE",
+              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/p3_-_vogue.jpg",
+              "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Albedo.jpg",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
+              "RimNoiseURL": "",
+              "ColorTabItems": [
+                {
+                  "ColorTabColorHex": "#c6c2b3",
+                  "ColorTabName": "3904 IVORY"
+                },
+                {
+                  "ColorTabColorHex": "#9d9480",
+                  "ColorTabName": "3915 DUST"
+                },
+                {
+                  "ColorTabColorHex": "#b9ab98",
+                  "ColorTabName": "3957 BEIGE"
+                },
+                {
+                  "ColorTabColorHex": "#b4998d",
+                  "ColorTabName": "3909 PINK"
+                },
+                {
+                  "ColorTabColorHex": "#907b6f",
+                  "ColorTabName": "3910 EARTH"
+                },
+                {
+                  "ColorTabColorHex": "#887d72",
+                  "ColorTabName": "3916 TAUPE"
+                },
+                {
+                  "ColorTabColorHex": "#72685f",
+                  "ColorTabName": "3901 TABACCO"
+                },
+                {
+                  "ColorTabColorHex": "#a07664",
+                  "ColorTabName": "3919 RUST"
+                },
+                {
+                  "ColorTabColorHex": "#967c64",
+                  "ColorTabName": "3921 CAMEL"
+                },
+                {
+                  "ColorTabColorHex": "#6a5544",
+                  "ColorTabName": "3911 CUERO"
+                },
+                {
+                  "ColorTabColorHex": "#935b4d",
+                  "ColorTabName": "3958 BURGUNDY"
+                },
+                {
+                  "ColorTabColorHex": "#c2565c",
+                  "ColorTabName": "3959 FUOCO"
+                },
+                {
+                  "ColorTabColorHex": "#ca8681",
+                  "ColorTabName": "3907 ROJO"
+                },
+                {
+                  "ColorTabColorHex": "#c3a360",
+                  "ColorTabName": "3918 AMARINO"
+                },
+                {
+                  "ColorTabColorHex": "#bead7e",
+                  "ColorTabName": "3920 MOSTAZA"
+                },
+                {
+                  "ColorTabColorHex": "#77786d",
+                  "ColorTabName": "3925 MOSS"
+                },
+                {
+                  "ColorTabColorHex": "#6c756e",
+                  "ColorTabName": "3926 JUNGLE"
+                },
+                {
+                  "ColorTabColorHex": "#696a5c",
+                  "ColorTabName": "3922 KAKY"
+                },
+                {
+                  "ColorTabColorHex": "#635f4f",
+                  "ColorTabName": "3902 MARRON"
+                },
+                {
+                  "ColorTabColorHex": "#979187",
+                  "ColorTabName": "3917 DUNE"
+                },
+                {
+                  "ColorTabColorHex": "#bcb5ae",
+                  "ColorTabName": "3908 LIGHT GREY"
+                },
+                {
+                  "ColorTabColorHex": "#8a8785",
+                  "ColorTabName": "3906 STEEL"
+                },
+                {
+                  "ColorTabColorHex": "#61615c",
+                  "ColorTabName": "3912 MOUSE"
+                },
+                {
+                  "ColorTabColorHex": "#a0acaa",
+                  "ColorTabName": "3903 SAFIRA"
+                },
+                {
+                  "ColorTabColorHex": "#787c87",
+                  "ColorTabName": "3927 SMOKE"
+                },
+                {
+                  "ColorTabColorHex": "#5f6267",
+                  "ColorTabName": "3929 AZUL"
+                },
+                {
+                  "ColorTabColorHex": "#727374",
+                  "ColorTabName": "3928 NIGHT"
+                },
+                {
+                  "ColorTabColorHex": "#3d3d3d",
+                  "ColorTabName": "3960 BLACK"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ModeId": 1,
+      "Text": "",
+      "Components": [
+        "Sponda",
+        "Seduta",
+        "Poggiareni",
+        "Spalliera",
+        "Poggiatesta",
+        "Scocca",
+        "Bracciolo"
+      ],
+      "TextureItems": [
+        {
+          "TextureName": "Tessuto",
+          "TextureVersionTabItems": [
+            {
+              "VersionName": "T4 - FLORENCE",
+              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/t4_-_florence.jpg",
+              "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Albedo.jpg",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Normal.png",
+              "RimNoiseURL": "",
+              "ColorTabItems": [
+                {
+                  "ColorTabColorHex": "#cecac0",
+                  "ColorTabName": "56"
+                },
+                {
+                  "ColorTabColorHex": "#c6bfb3",
+                  "ColorTabName": "51"
+                },
+                {
+                  "ColorTabColorHex": "#b3aea2",
+                  "ColorTabName": "90"
+                },
+                {
+                  "ColorTabColorHex": "#959183",
+                  "ColorTabName": "9"
+                },
+                {
+                  "ColorTabColorHex": "#7e7463",
+                  "ColorTabName": "11"
+                },
+                {
+                  "ColorTabColorHex": "#625746",
+                  "ColorTabName": "27"
+                },
+                {
+                  "ColorTabColorHex": "#bf9845",
+                  "ColorTabName": "46"
+                },
+                {
+                  "ColorTabColorHex": "#a28649",
+                  "ColorTabName": "357"
+                },
+                {
+                  "ColorTabColorHex": "#8d9550",
+                  "ColorTabName": "330"
+                },
+                {
+                  "ColorTabColorHex": "#576a44",
+                  "ColorTabName": "407"
+                },
+                {
+                  "ColorTabColorHex": "#bb3e3e",
+                  "ColorTabName": "309"
+                },
+                {
+                  "ColorTabColorHex": "#b65535",
+                  "ColorTabName": "30"
+                },
+                {
+                  "ColorTabColorHex": "#9e3f2e",
+                  "ColorTabName": "266"
+                },
+                {
+                  "ColorTabColorHex": "#b1a5a6",
+                  "ColorTabName": "324"
+                },
+                {
+                  "ColorTabColorHex": "#b18c91",
+                  "ColorTabName": "342"
+                },
+                {
+                  "ColorTabColorHex": "#783f4b",
+                  "ColorTabName": "302"
+                },
+                {
+                  "ColorTabColorHex": "#37313a",
+                  "ColorTabName": "60"
+                },
+                {
+                  "ColorTabColorHex": "#3c5d9f",
+                  "ColorTabName": "434"
+                },
+                {
+                  "ColorTabColorHex": "#758dbd",
+                  "ColorTabName": "53"
+                },
+                {
+                  "ColorTabColorHex": "#afbbb6",
+                  "ColorTabName": "347"
+                },
+                {
+                  "ColorTabColorHex": "#c9c9c9",
+                  "ColorTabName": "156"
+                },
+                {
+                  "ColorTabColorHex": "#c0bcb9",
+                  "ColorTabName": "336"
+                },
+                {
+                  "ColorTabColorHex": "#b3b0ad",
+                  "ColorTabName": "300"
+                },
+                {
+                  "ColorTabColorHex": "#908e89",
+                  "ColorTabName": "271"
+                },
+                {
+                  "ColorTabColorHex": "#2e2e2e",
+                  "ColorTabName": "10"
+                }
+              ]
+            },
+            {
+              "VersionName": "T4 - VENICE",
+              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/t4_-_venice.jpg",
+              "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Albedo.jpg",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Normal.png",
+              "RimNoiseURL": "",
+              "ColorTabItems": [
+                {
+                  "ColorTabColorHex": "#eae5dc",
+                  "ColorTabName": "50"
+                },
+                {
+                  "ColorTabColorHex": "#d2d1d0",
+                  "ColorTabName": "336"
+                },
+                {
+                  "ColorTabColorHex": "#edebe8",
+                  "ColorTabName": "324"
+                },
+                {
+                  "ColorTabColorHex": "#d2cabc",
+                  "ColorTabName": "156"
+                },
+                {
+                  "ColorTabColorHex": "#c3b5a2",
+                  "ColorTabName": "250"
+                },
+                {
+                  "ColorTabColorHex": "#a89985",
+                  "ColorTabName": "349"
+                },
+                {
+                  "ColorTabColorHex": "#ada094",
+                  "ColorTabName": "80"
+                },
+                {
+                  "ColorTabColorHex": "#957c6f",
+                  "ColorTabName": "111"
+                },
+                {
+                  "ColorTabColorHex": "#645b4f",
+                  "ColorTabName": "131"
+                },
+                {
+                  "ColorTabColorHex": "#59524a",
+                  "ColorTabName": "7"
+                },
+                {
+                  "ColorTabColorHex": "#c3a055",
+                  "ColorTabName": "625"
+                },
+                {
+                  "ColorTabColorHex": "#bba75d",
+                  "ColorTabName": "514"
+                },
+                {
+                  "ColorTabColorHex": "#d5875d",
+                  "ColorTabName": "62"
+                },
+                {
+                  "ColorTabColorHex": "#8e9763",
+                  "ColorTabName": "61"
+                },
+                {
+                  "ColorTabColorHex": "#8b9051",
+                  "ColorTabName": "618"
+                },
+                {
+                  "ColorTabColorHex": "#9aa092",
+                  "ColorTabName": "43"
+                },
+                {
+                  "ColorTabColorHex": "#5f605c",
+                  "ColorTabName": "339"
+                },
+                {
+                  "ColorTabColorHex": "#c6726c",
+                  "ColorTabName": "29"
+                },
+                {
+                  "ColorTabColorHex": "#b54545",
+                  "ColorTabName": "8"
+                },
+                {
+                  "ColorTabColorHex": "#cb6d4d",
+                  "ColorTabName": "458"
+                },
+                {
+                  "ColorTabColorHex": "#9c5454",
+                  "ColorTabName": "226"
+                },
+                {
+                  "ColorTabColorHex": "#934d5f",
+                  "ColorTabName": "667"
+                },
+                {
+                  "ColorTabColorHex": "#a3b2bd",
+                  "ColorTabName": "94"
+                },
+                {
+                  "ColorTabColorHex": "#69769b",
+                  "ColorTabName": "53"
+                },
+                {
+                  "ColorTabColorHex": "#65899f",
+                  "ColorTabName": "510"
+                },
+                {
+                  "ColorTabColorHex": "#5d6689",
+                  "ColorTabName": "11"
+                },
+                {
+                  "ColorTabColorHex": "#555d68",
+                  "ColorTabName": "214"
+                },
+                {
+                  "ColorTabColorHex": "#3c404e",
+                  "ColorTabName": "60"
+                },
+                {
+                  "ColorTabColorHex": "#cbcac8",
+                  "ColorTabName": "300"
+                },
+                {
+                  "ColorTabColorHex": "#b5b3b0",
+                  "ColorTabName": "13"
+                },
+                {
+                  "ColorTabColorHex": "#8b8a89",
+                  "ColorTabName": "213"
+                },
+                {
+                  "ColorTabColorHex": "#6a6562",
+                  "ColorTabName": "271"
+                },
+                {
+                  "ColorTabColorHex": "#514848",
+                  "ColorTabName": "15"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ModeId": 1,
+      "Text": "",
+      "Components": [
+        "Sponda",
+        "Seduta",
+        "Poggiareni",
+        "Spalliera",
+        "Poggiatesta",
+        "Scocca",
+        "Bracciolo"
+      ],
+      "TextureItems": []
+    },
+    {
+      "ModeId": 2,
+      "Text": "SEDUTA",
+      "Components": [
+        "Seduta"
+      ],
+      "TextureItems": [
+        {
+          "TextureName": "Pelle",
+          "TextureVersionTabItems": [
+            {
+              "VersionName": "P3 - VOGUE",
+              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/p3_-_vogue.jpg",
+              "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Albedo.jpg",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
+              "RimNoiseURL": "",
+              "ColorTabItems": [
+                {
+                  "ColorTabColorHex": "#c6c2b3",
+                  "ColorTabName": "3904 IVORY"
+                },
+                {
+                  "ColorTabColorHex": "#9d9480",
+                  "ColorTabName": "3915 DUST"
+                },
+                {
+                  "ColorTabColorHex": "#b9ab98",
+                  "ColorTabName": "3957 BEIGE"
+                },
+                {
+                  "ColorTabColorHex": "#b4998d",
+                  "ColorTabName": "3909 PINK"
+                },
+                {
+                  "ColorTabColorHex": "#907b6f",
+                  "ColorTabName": "3910 EARTH"
+                },
+                {
+                  "ColorTabColorHex": "#887d72",
+                  "ColorTabName": "3916 TAUPE"
+                },
+                {
+                  "ColorTabColorHex": "#72685f",
+                  "ColorTabName": "3901 TABACCO"
+                },
+                {
+                  "ColorTabColorHex": "#a07664",
+                  "ColorTabName": "3919 RUST"
+                },
+                {
+                  "ColorTabColorHex": "#967c64",
+                  "ColorTabName": "3921 CAMEL"
+                },
+                {
+                  "ColorTabColorHex": "#6a5544",
+                  "ColorTabName": "3911 CUERO"
+                },
+                {
+                  "ColorTabColorHex": "#935b4d",
+                  "ColorTabName": "3958 BURGUNDY"
+                },
+                {
+                  "ColorTabColorHex": "#c2565c",
+                  "ColorTabName": "3959 FUOCO"
+                },
+                {
+                  "ColorTabColorHex": "#ca8681",
+                  "ColorTabName": "3907 ROJO"
+                },
+                {
+                  "ColorTabColorHex": "#c3a360",
+                  "ColorTabName": "3918 AMARINO"
+                },
+                {
+                  "ColorTabColorHex": "#bead7e",
+                  "ColorTabName": "3920 MOSTAZA"
+                },
+                {
+                  "ColorTabColorHex": "#77786d",
+                  "ColorTabName": "3925 MOSS"
+                },
+                {
+                  "ColorTabColorHex": "#6c756e",
+                  "ColorTabName": "3926 JUNGLE"
+                },
+                {
+                  "ColorTabColorHex": "#696a5c",
+                  "ColorTabName": "3922 KAKY"
+                },
+                {
+                  "ColorTabColorHex": "#635f4f",
+                  "ColorTabName": "3902 MARRON"
+                },
+                {
+                  "ColorTabColorHex": "#979187",
+                  "ColorTabName": "3917 DUNE"
+                },
+                {
+                  "ColorTabColorHex": "#bcb5ae",
+                  "ColorTabName": "3908 LIGHT GREY"
+                },
+                {
+                  "ColorTabColorHex": "#8a8785",
+                  "ColorTabName": "3906 STEEL"
+                },
+                {
+                  "ColorTabColorHex": "#61615c",
+                  "ColorTabName": "3912 MOUSE"
+                },
+                {
+                  "ColorTabColorHex": "#a0acaa",
+                  "ColorTabName": "3903 SAFIRA"
+                },
+                {
+                  "ColorTabColorHex": "#787c87",
+                  "ColorTabName": "3927 SMOKE"
+                },
+                {
+                  "ColorTabColorHex": "#5f6267",
+                  "ColorTabName": "3929 AZUL"
+                },
+                {
+                  "ColorTabColorHex": "#727374",
+                  "ColorTabName": "3928 NIGHT"
+                },
+                {
+                  "ColorTabColorHex": "#3d3d3d",
+                  "ColorTabName": "3960 BLACK"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "TextureName": "Tessuto",
+          "TextureVersionTabItems": [
+            {
+              "VersionName": "T4 - FLORENCE",
+              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/t4_-_florence.jpg",
+              "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Albedo.jpg",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Normal.png",
+              "RimNoiseURL": "",
+              "ColorTabItems": [
+                {
+                  "ColorTabColorHex": "#cecac0",
+                  "ColorTabName": "56"
+                },
+                {
+                  "ColorTabColorHex": "#c6bfb3",
+                  "ColorTabName": "51"
+                },
+                {
+                  "ColorTabColorHex": "#b3aea2",
+                  "ColorTabName": "90"
+                },
+                {
+                  "ColorTabColorHex": "#959183",
+                  "ColorTabName": "9"
+                },
+                {
+                  "ColorTabColorHex": "#7e7463",
+                  "ColorTabName": "11"
+                },
+                {
+                  "ColorTabColorHex": "#625746",
+                  "ColorTabName": "27"
+                },
+                {
+                  "ColorTabColorHex": "#bf9845",
+                  "ColorTabName": "46"
+                },
+                {
+                  "ColorTabColorHex": "#a28649",
+                  "ColorTabName": "357"
+                },
+                {
+                  "ColorTabColorHex": "#8d9550",
+                  "ColorTabName": "330"
+                },
+                {
+                  "ColorTabColorHex": "#576a44",
+                  "ColorTabName": "407"
+                },
+                {
+                  "ColorTabColorHex": "#bb3e3e",
+                  "ColorTabName": "309"
+                },
+                {
+                  "ColorTabColorHex": "#b65535",
+                  "ColorTabName": "30"
+                },
+                {
+                  "ColorTabColorHex": "#9e3f2e",
+                  "ColorTabName": "266"
+                },
+                {
+                  "ColorTabColorHex": "#b1a5a6",
+                  "ColorTabName": "324"
+                },
+                {
+                  "ColorTabColorHex": "#b18c91",
+                  "ColorTabName": "342"
+                },
+                {
+                  "ColorTabColorHex": "#783f4b",
+                  "ColorTabName": "302"
+                },
+                {
+                  "ColorTabColorHex": "#37313a",
+                  "ColorTabName": "60"
+                },
+                {
+                  "ColorTabColorHex": "#3c5d9f",
+                  "ColorTabName": "434"
+                },
+                {
+                  "ColorTabColorHex": "#758dbd",
+                  "ColorTabName": "53"
+                },
+                {
+                  "ColorTabColorHex": "#afbbb6",
+                  "ColorTabName": "347"
+                },
+                {
+                  "ColorTabColorHex": "#c9c9c9",
+                  "ColorTabName": "156"
+                },
+                {
+                  "ColorTabColorHex": "#c0bcb9",
+                  "ColorTabName": "336"
+                },
+                {
+                  "ColorTabColorHex": "#b3b0ad",
+                  "ColorTabName": "300"
+                },
+                {
+                  "ColorTabColorHex": "#908e89",
+                  "ColorTabName": "271"
+                },
+                {
+                  "ColorTabColorHex": "#2e2e2e",
+                  "ColorTabName": "10"
+                }
+              ]
+            },
+            {
+              "VersionName": "T4 - VENICE",
+              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/t4_-_venice.jpg",
+              "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Albedo.jpg",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Normal.png",
+              "RimNoiseURL": "",
+              "ColorTabItems": [
+                {
+                  "ColorTabColorHex": "#eae5dc",
+                  "ColorTabName": "50"
+                },
+                {
+                  "ColorTabColorHex": "#d2d1d0",
+                  "ColorTabName": "336"
+                },
+                {
+                  "ColorTabColorHex": "#edebe8",
+                  "ColorTabName": "324"
+                },
+                {
+                  "ColorTabColorHex": "#d2cabc",
+                  "ColorTabName": "156"
+                },
+                {
+                  "ColorTabColorHex": "#c3b5a2",
+                  "ColorTabName": "250"
+                },
+                {
+                  "ColorTabColorHex": "#a89985",
+                  "ColorTabName": "349"
+                },
+                {
+                  "ColorTabColorHex": "#ada094",
+                  "ColorTabName": "80"
+                },
+                {
+                  "ColorTabColorHex": "#957c6f",
+                  "ColorTabName": "111"
+                },
+                {
+                  "ColorTabColorHex": "#645b4f",
+                  "ColorTabName": "131"
+                },
+                {
+                  "ColorTabColorHex": "#59524a",
+                  "ColorTabName": "7"
+                },
+                {
+                  "ColorTabColorHex": "#c3a055",
+                  "ColorTabName": "625"
+                },
+                {
+                  "ColorTabColorHex": "#bba75d",
+                  "ColorTabName": "514"
+                },
+                {
+                  "ColorTabColorHex": "#d5875d",
+                  "ColorTabName": "62"
+                },
+                {
+                  "ColorTabColorHex": "#8e9763",
+                  "ColorTabName": "61"
+                },
+                {
+                  "ColorTabColorHex": "#8b9051",
+                  "ColorTabName": "618"
+                },
+                {
+                  "ColorTabColorHex": "#9aa092",
+                  "ColorTabName": "43"
+                },
+                {
+                  "ColorTabColorHex": "#5f605c",
+                  "ColorTabName": "339"
+                },
+                {
+                  "ColorTabColorHex": "#c6726c",
+                  "ColorTabName": "29"
+                },
+                {
+                  "ColorTabColorHex": "#b54545",
+                  "ColorTabName": "8"
+                },
+                {
+                  "ColorTabColorHex": "#cb6d4d",
+                  "ColorTabName": "458"
+                },
+                {
+                  "ColorTabColorHex": "#9c5454",
+                  "ColorTabName": "226"
+                },
+                {
+                  "ColorTabColorHex": "#934d5f",
+                  "ColorTabName": "667"
+                },
+                {
+                  "ColorTabColorHex": "#a3b2bd",
+                  "ColorTabName": "94"
+                },
+                {
+                  "ColorTabColorHex": "#69769b",
+                  "ColorTabName": "53"
+                },
+                {
+                  "ColorTabColorHex": "#65899f",
+                  "ColorTabName": "510"
+                },
+                {
+                  "ColorTabColorHex": "#5d6689",
+                  "ColorTabName": "11"
+                },
+                {
+                  "ColorTabColorHex": "#555d68",
+                  "ColorTabName": "214"
+                },
+                {
+                  "ColorTabColorHex": "#3c404e",
+                  "ColorTabName": "60"
+                },
+                {
+                  "ColorTabColorHex": "#cbcac8",
+                  "ColorTabName": "300"
+                },
+                {
+                  "ColorTabColorHex": "#b5b3b0",
+                  "ColorTabName": "13"
+                },
+                {
+                  "ColorTabColorHex": "#8b8a89",
+                  "ColorTabName": "213"
+                },
+                {
+                  "ColorTabColorHex": "#6a6562",
+                  "ColorTabName": "271"
+                },
+                {
+                  "ColorTabColorHex": "#514848",
+                  "ColorTabName": "15"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ModeId": 2,
+      "Text": "SCOCCA",
+      "Components": [
+        "Scocca"
+      ],
+      "TextureItems": [
+        {
+          "TextureName": "Pelle",
+          "TextureVersionTabItems": [
+            {
+              "VersionName": "P3 - VOGUE",
+              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/p3_-_vogue.jpg",
+              "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Albedo.jpg",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/pelle/p03_-_vogue/Normal.png",
+              "RimNoiseURL": "",
+              "ColorTabItems": [
+                {
+                  "ColorTabColorHex": "#c6c2b3",
+                  "ColorTabName": "3904 IVORY"
+                },
+                {
+                  "ColorTabColorHex": "#9d9480",
+                  "ColorTabName": "3915 DUST"
+                },
+                {
+                  "ColorTabColorHex": "#b9ab98",
+                  "ColorTabName": "3957 BEIGE"
+                },
+                {
+                  "ColorTabColorHex": "#b4998d",
+                  "ColorTabName": "3909 PINK"
+                },
+                {
+                  "ColorTabColorHex": "#907b6f",
+                  "ColorTabName": "3910 EARTH"
+                },
+                {
+                  "ColorTabColorHex": "#887d72",
+                  "ColorTabName": "3916 TAUPE"
+                },
+                {
+                  "ColorTabColorHex": "#72685f",
+                  "ColorTabName": "3901 TABACCO"
+                },
+                {
+                  "ColorTabColorHex": "#a07664",
+                  "ColorTabName": "3919 RUST"
+                },
+                {
+                  "ColorTabColorHex": "#967c64",
+                  "ColorTabName": "3921 CAMEL"
+                },
+                {
+                  "ColorTabColorHex": "#6a5544",
+                  "ColorTabName": "3911 CUERO"
+                },
+                {
+                  "ColorTabColorHex": "#935b4d",
+                  "ColorTabName": "3958 BURGUNDY"
+                },
+                {
+                  "ColorTabColorHex": "#c2565c",
+                  "ColorTabName": "3959 FUOCO"
+                },
+                {
+                  "ColorTabColorHex": "#ca8681",
+                  "ColorTabName": "3907 ROJO"
+                },
+                {
+                  "ColorTabColorHex": "#c3a360",
+                  "ColorTabName": "3918 AMARINO"
+                },
+                {
+                  "ColorTabColorHex": "#bead7e",
+                  "ColorTabName": "3920 MOSTAZA"
+                },
+                {
+                  "ColorTabColorHex": "#77786d",
+                  "ColorTabName": "3925 MOSS"
+                },
+                {
+                  "ColorTabColorHex": "#6c756e",
+                  "ColorTabName": "3926 JUNGLE"
+                },
+                {
+                  "ColorTabColorHex": "#696a5c",
+                  "ColorTabName": "3922 KAKY"
+                },
+                {
+                  "ColorTabColorHex": "#635f4f",
+                  "ColorTabName": "3902 MARRON"
+                },
+                {
+                  "ColorTabColorHex": "#979187",
+                  "ColorTabName": "3917 DUNE"
+                },
+                {
+                  "ColorTabColorHex": "#bcb5ae",
+                  "ColorTabName": "3908 LIGHT GREY"
+                },
+                {
+                  "ColorTabColorHex": "#8a8785",
+                  "ColorTabName": "3906 STEEL"
+                },
+                {
+                  "ColorTabColorHex": "#61615c",
+                  "ColorTabName": "3912 MOUSE"
+                },
+                {
+                  "ColorTabColorHex": "#a0acaa",
+                  "ColorTabName": "3903 SAFIRA"
+                },
+                {
+                  "ColorTabColorHex": "#787c87",
+                  "ColorTabName": "3927 SMOKE"
+                },
+                {
+                  "ColorTabColorHex": "#5f6267",
+                  "ColorTabName": "3929 AZUL"
+                },
+                {
+                  "ColorTabColorHex": "#727374",
+                  "ColorTabName": "3928 NIGHT"
+                },
+                {
+                  "ColorTabColorHex": "#3d3d3d",
+                  "ColorTabName": "3960 BLACK"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "TextureName": "Tessuto",
+          "TextureVersionTabItems": [
+            {
+              "VersionName": "T4 - FLORENCE",
+              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/t4_-_florence.jpg",
+              "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Albedo.jpg",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_florence/Normal.png",
+              "RimNoiseURL": "",
+              "ColorTabItems": [
+                {
+                  "ColorTabColorHex": "#cecac0",
+                  "ColorTabName": "56"
+                },
+                {
+                  "ColorTabColorHex": "#c6bfb3",
+                  "ColorTabName": "51"
+                },
+                {
+                  "ColorTabColorHex": "#b3aea2",
+                  "ColorTabName": "90"
+                },
+                {
+                  "ColorTabColorHex": "#959183",
+                  "ColorTabName": "9"
+                },
+                {
+                  "ColorTabColorHex": "#7e7463",
+                  "ColorTabName": "11"
+                },
+                {
+                  "ColorTabColorHex": "#625746",
+                  "ColorTabName": "27"
+                },
+                {
+                  "ColorTabColorHex": "#bf9845",
+                  "ColorTabName": "46"
+                },
+                {
+                  "ColorTabColorHex": "#a28649",
+                  "ColorTabName": "357"
+                },
+                {
+                  "ColorTabColorHex": "#8d9550",
+                  "ColorTabName": "330"
+                },
+                {
+                  "ColorTabColorHex": "#576a44",
+                  "ColorTabName": "407"
+                },
+                {
+                  "ColorTabColorHex": "#bb3e3e",
+                  "ColorTabName": "309"
+                },
+                {
+                  "ColorTabColorHex": "#b65535",
+                  "ColorTabName": "30"
+                },
+                {
+                  "ColorTabColorHex": "#9e3f2e",
+                  "ColorTabName": "266"
+                },
+                {
+                  "ColorTabColorHex": "#b1a5a6",
+                  "ColorTabName": "324"
+                },
+                {
+                  "ColorTabColorHex": "#b18c91",
+                  "ColorTabName": "342"
+                },
+                {
+                  "ColorTabColorHex": "#783f4b",
+                  "ColorTabName": "302"
+                },
+                {
+                  "ColorTabColorHex": "#37313a",
+                  "ColorTabName": "60"
+                },
+                {
+                  "ColorTabColorHex": "#3c5d9f",
+                  "ColorTabName": "434"
+                },
+                {
+                  "ColorTabColorHex": "#758dbd",
+                  "ColorTabName": "53"
+                },
+                {
+                  "ColorTabColorHex": "#afbbb6",
+                  "ColorTabName": "347"
+                },
+                {
+                  "ColorTabColorHex": "#c9c9c9",
+                  "ColorTabName": "156"
+                },
+                {
+                  "ColorTabColorHex": "#c0bcb9",
+                  "ColorTabName": "336"
+                },
+                {
+                  "ColorTabColorHex": "#b3b0ad",
+                  "ColorTabName": "300"
+                },
+                {
+                  "ColorTabColorHex": "#908e89",
+                  "ColorTabName": "271"
+                },
+                {
+                  "ColorTabColorHex": "#2e2e2e",
+                  "ColorTabName": "10"
+                }
+              ]
+            },
+            {
+              "VersionName": "T4 - VENICE",
+              "ImageURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/images/t4_-_venice.jpg",
+              "AlbedoURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Albedo.jpg",
+              "MaskURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Mask.jpg",
+              "NormalURL": "https://raw.githubusercontent.com/RDD-Digital/RDD-Material-Tab/main/textures/tessuto/t4_-_venice/Normal.png",
+              "RimNoiseURL": "",
+              "ColorTabItems": [
+                {
+                  "ColorTabColorHex": "#eae5dc",
+                  "ColorTabName": "50"
+                },
+                {
+                  "ColorTabColorHex": "#d2d1d0",
+                  "ColorTabName": "336"
+                },
+                {
+                  "ColorTabColorHex": "#edebe8",
+                  "ColorTabName": "324"
+                },
+                {
+                  "ColorTabColorHex": "#d2cabc",
+                  "ColorTabName": "156"
+                },
+                {
+                  "ColorTabColorHex": "#c3b5a2",
+                  "ColorTabName": "250"
+                },
+                {
+                  "ColorTabColorHex": "#a89985",
+                  "ColorTabName": "349"
+                },
+                {
+                  "ColorTabColorHex": "#ada094",
+                  "ColorTabName": "80"
+                },
+                {
+                  "ColorTabColorHex": "#957c6f",
+                  "ColorTabName": "111"
+                },
+                {
+                  "ColorTabColorHex": "#645b4f",
+                  "ColorTabName": "131"
+                },
+                {
+                  "ColorTabColorHex": "#59524a",
+                  "ColorTabName": "7"
+                },
+                {
+                  "ColorTabColorHex": "#c3a055",
+                  "ColorTabName": "625"
+                },
+                {
+                  "ColorTabColorHex": "#bba75d",
+                  "ColorTabName": "514"
+                },
+                {
+                  "ColorTabColorHex": "#d5875d",
+                  "ColorTabName": "62"
+                },
+                {
+                  "ColorTabColorHex": "#8e9763",
+                  "ColorTabName": "61"
+                },
+                {
+                  "ColorTabColorHex": "#8b9051",
+                  "ColorTabName": "618"
+                },
+                {
+                  "ColorTabColorHex": "#9aa092",
+                  "ColorTabName": "43"
+                },
+                {
+                  "ColorTabColorHex": "#5f605c",
+                  "ColorTabName": "339"
+                },
+                {
+                  "ColorTabColorHex": "#c6726c",
+                  "ColorTabName": "29"
+                },
+                {
+                  "ColorTabColorHex": "#b54545",
+                  "ColorTabName": "8"
+                },
+                {
+                  "ColorTabColorHex": "#cb6d4d",
+                  "ColorTabName": "458"
+                },
+                {
+                  "ColorTabColorHex": "#9c5454",
+                  "ColorTabName": "226"
+                },
+                {
+                  "ColorTabColorHex": "#934d5f",
+                  "ColorTabName": "667"
+                },
+                {
+                  "ColorTabColorHex": "#a3b2bd",
+                  "ColorTabName": "94"
+                },
+                {
+                  "ColorTabColorHex": "#69769b",
+                  "ColorTabName": "53"
+                },
+                {
+                  "ColorTabColorHex": "#65899f",
+                  "ColorTabName": "510"
+                },
+                {
+                  "ColorTabColorHex": "#5d6689",
+                  "ColorTabName": "11"
+                },
+                {
+                  "ColorTabColorHex": "#555d68",
+                  "ColorTabName": "214"
+                },
+                {
+                  "ColorTabColorHex": "#3c404e",
+                  "ColorTabName": "60"
+                },
+                {
+                  "ColorTabColorHex": "#cbcac8",
+                  "ColorTabName": "300"
+                },
+                {
+                  "ColorTabColorHex": "#b5b3b0",
+                  "ColorTabName": "13"
+                },
+                {
+                  "ColorTabColorHex": "#8b8a89",
+                  "ColorTabName": "213"
+                },
+                {
+                  "ColorTabColorHex": "#6a6562",
+                  "ColorTabName": "271"
+                },
+                {
+                  "ColorTabColorHex": "#514848",
+                  "ColorTabName": "15"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
